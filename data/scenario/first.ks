@@ -259,6 +259,7 @@ Thus, it is advisable to negotiate with your counterparts in advance, then repor
 Next day, you came to the customer office for the meeting.[l][r]
 [cm]
 You are introduced to the customer.[l][r]
+[image layer=1 page=fore visible=true top=120 left=200  storage = suzuki.png]
 "Nice to meet you. My name is Suzuki. I'm in charge of this project"[l][r]
 [cm]
 He put a business card to me.[l][r]
@@ -332,3 +333,7 @@ When you call Japanese in formal occasion, please call him/her as last name + "s
 "San" can be used for both male and female.[l][r]
 [cm]
 @jump target=*PreQ7
+
+
+*PreQ7
+[freeimage page=fore layer=1 ]
