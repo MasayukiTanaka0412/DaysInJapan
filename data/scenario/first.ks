@@ -26,7 +26,6 @@ Click to Start[l]
 
 [position height=160 top=300]
 [cm]
-You are an associate at Bangalore.[l][r]
 You've got a mail from your boss.[l][cm]
 [image layer=1 page=fore visible=true top=100 left=256  storage = mail.png]
 
@@ -337,4 +336,116 @@ When you call Japanese in formal occasion, please call him/her as last name + "s
 
 *PreQ7
 [freeimage page=fore layer=1 ]
+After exchanging business cards, Suzuki-san offered us seats.[l][r]
+Which seat do you sit?[l][r]
+[cm]
+[link target=*Q7A1]1. Whichever you want[endlink][r]
+[link target=*Q7A2]2. Near to the door[endlink][r]
+[link target=*Q7A3]3. Far from the door[endlink][r]
+[s]
 
+*Q7A1
+[cm]
+Not Correct![l][r]
+Usually, most senior person sit farthest from the door and youngest sits nearest.[l][r]
+This rule is also applied to lift and car.[l][r]
+[cm]
+@jump target=*PreQ8
+
+*Q7A2
+[cm]
+Correct![l][r]
+Usually, most senior person sit farthest from the door and youngest sits nearest.[l][r]
+This rule is also applied to lift and car.[l][r]
+[cm]
+@jump target=*PreQ8
+
+*Q7A3
+[cm]
+Not Correct![l][r]
+Usually, most senior person sit farthest from the door and youngest sits nearest.[l][r]
+This rule is also applied to lift and car.[l][r]
+[cm]
+@jump target=*PreQ8
+
+
+*PreQ8
+During the meeting, Suzuki-san responded to your suggestion with "Yes" and "OK" [l][r]
+[cm]
+Does Suzuki-san approve your suggenstion?[r]
+[link target=*Q8A1]1. Yes, he has approved your suggestion.[endlink][r]
+[link target=*Q8A2]2. No, he has not approved your suggestion[endlink][r]
+[s]
+
+*Q8A1
+[cm]
+Not Correct![l][r]
+Japanese tends to say "Yes" or "OK" just to express "I understood your opinion."[l][r]
+That does not mean approval.[l][r]
+You should be careful about Japanese "Yes/OK"[l][r]
+It is advisable to get explicit aprroval from them before proceeding to next step.[l][r]
+[cm]
+@jump target=*PreQ9
+
+*Q8A2
+[cm]
+Correct![l][r]
+Japanese tends to say "Yes" or "OK" just to express "I understood your opinion."[l][r]
+That does not mean approval.[l][r]
+You should be careful about Japanese "Yes/OK"[l][r]
+It is advisable to get explicit aprroval from them before proceeding to next step.[l][r]
+[cm]
+@jump target=*PreQ9
+
+*PreQ9
+Also it is advisable not to use following questions.[l][r]
+Would you mind ...?[l][r]
+Don't you think ...?[l][r]
+Because Japanese tends to say "Yes", if they don't mind or agree with you opinion.[l][r]
+[cm]
+[backlay]
+[image layer=base page=back storage=lift.jpg]
+[trans time=2000]
+[wt]
+After the meeting, Suzuki-san attented to the lift.[l][r]
+When the door is closing, Suzuki-san bows.[l][r]
+[image layer=1 page=fore visible=true top=100 left=256  storage = bow.png]
+How do you do?[l][r]
+[cm]
+[link target=*Q9A1]1. Bow 15 degree[endlink][r]
+[link target=*Q9A2]2. Bow 30 degree[endlink][r]
+[link target=*Q9A3]3. Bow 45 degree[endlink][r]
+[s]
+
+*Q9A1
+[cm]
+Not Correct![l][r]
+15 degree bow is appropriate for casual scene.[l][r]
+30 degree bow is appropriate for business scene.[l][r]
+45 degree bow is most polite, appropriate for wedding ceremony, expressing deep aplogize, etc,.[l][r]
+Please keep bowing until the door is completely closed.[l][r]
+[cm]
+@jump target=*PreQ10
+
+*Q9A2
+[cm]
+Correct![l][r]
+15 degree bow is appropriate for casual scene.[l][r]
+30 degree bow is appropriate for business scene.[l][r]
+45 degree bow is most polite, appropriate for wedding ceremony, expressing deep aplogize, etc,.[l][r]
+Please keep bowing until the door is completely closed.[l][r]
+[cm]
+@jump target=*PreQ10
+
+*Q9A3
+[cm]
+Not Correct![l][r]
+15 degree bow is appropriate for casual scene.[l][r]
+30 degree bow is appropriate for business scene.[l][r]
+45 degree bow is most polite, appropriate for wedding ceremony, expressing deep aplogize, etc,.[l][r]
+Please keep bowing until the door is completely closed.[l][r]
+[cm]
+@jump target=*PreQ10
+
+
+*PreQ10
