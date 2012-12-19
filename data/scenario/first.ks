@@ -400,7 +400,7 @@ It is advisable to get explicit aprroval from them before proceeding to next ste
 *PreQ9
 Also it is advisable not to use following questions.[l][r]
 Would you mind ...?[l][r]
-Don't you think ...?[l][r]
+We don't have ...?[l][r]
 Because Japanese tends to say "Yes", if they don't mind or agree with you opinion.[l][r]
 [cm]
 [backlay]
