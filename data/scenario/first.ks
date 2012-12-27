@@ -449,4 +449,53 @@ Please keep bowing until the door is completely closed.[l][r]
 
 
 *PreQ10
+[freeimage layer=1 page=fore]
+[backlay]
+[image layer=base page=back storage=desk.jpg]
+[trans time=2000]
+[wt]
+You came back to the office.[l][r]
+When you are preparing a presentation according to the discussion, Suzuki-san calls you.[l][r]
+[image layer=1 page=fore visible=true top=90 left=170  storage = mobile.png]
+Suzuki-san ask you, "Please change the release date to XXX."[l][r]
+The change he asked is very small and obviously no impact for the project.[l][r]
+[cm]
+How do you do?[l][r]
+[link target=*Q10A1]1. Decline his request[endlink][r]
+[link target=*Q10A2]2. Ask your manager to how to respond.[endlink][r]
+[link target=*Q10A3]3. Since it is a subtle matter, say OK to him.[endlink][r]
+[s]
 
+*Q10A1
+[cm]
+Not Correct![l][r]
+Japanese business person give improtance to "Report/Notification/Consultation."[l][r]
+Even for small things, you need to report or notify to your manager. At least retrospective appraoval is required.[l][r]
+If you fail to do so, even though you acheive a good result, your manager does not evaluate you as a capable person.[l][r]
+And customer PIC also need to report to his/her manager frequently, thus he/she may ask you a progress during the project, even though the deadaline of the task is yet to come.[l][r]
+[cm]
+@jump target=*PreQ11
+
+*Q10A2
+[cm]
+Correct![l][r]
+Japanese business person give improtance to "Report/Notification/Consultation."[l][r]
+Even for small things, you need to report or notify to your manager. At least retrospective appraoval is required.[l][r]
+If you fail to do so, even though you acheive a good result, your manager does not evaluate you as a capable person.[l][r]
+And customer PIC also need to report to his/her manager frequently, thus he/she may ask you a progress during the project, even though the deadaline of the task is yet to come.[l][r]
+[cm]
+@jump target=*PreQ11
+
+*Q10A3
+[cm]
+Not Correct![l][r]
+Japanese business person give improtance to "Report/Notification/Consultation."[l][r]
+Even for small things, you need to report or notify to your manager. At least retrospective appraoval is required.[l][r]
+If you fail to do so, even though you acheive a good result, your manager does not evaluate you as a capable person.[l][r]
+And customer PIC also need to report to his/her manager frequently, thus he/she may ask you a progress during the project, even though the deadaline of the task is yet to come.[l][r]
+[cm]
+@jump target=*PreQ11
+
+
+*PreQ11
+[freeimage layer=1 page=fore]
