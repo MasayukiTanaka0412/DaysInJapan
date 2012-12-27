@@ -499,3 +499,4 @@ And customer PIC also need to report to his/her manager frequently, thus he/she 
 
 *PreQ11
 [freeimage layer=1 page=fore]
+[image layer=1 page=fore visible=true top=112 left=192  storage = ppt.png]
